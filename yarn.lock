@@ -5826,9 +5826,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-design-system@pulibrary/UI-Components:
+vue-design-system@pulibrary/lux:
   version "2.1.3"
-  resolved "https://codeload.github.com/pulibrary/UI-Components/tar.gz/37760207dd868b7ba32bded0610cfb39453e2c12"
+  resolved "https://codeload.github.com/pulibrary/lux/tar.gz/3f1197dd6c44c43fc24d267542ab7f3d1cb398a2"
   dependencies:
     lodash "^4.17.5"
     tinycolor2 "^1.4.1"

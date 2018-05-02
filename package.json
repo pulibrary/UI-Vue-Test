@@ -4,7 +4,7 @@
   "dependencies": {
     "@rails/webpacker": "3.5",
     "vue": "^2.5.16",
-    "vue-design-system": "pulibrary/UI-Components",
+    "vue-design-system": "pulibrary/lux",
     "vue-loader": "14.2.2",
     "vue-template-compiler": "^2.5.16",
     "vue-turbolinks": "^2.0.3"
