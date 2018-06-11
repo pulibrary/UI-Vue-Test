@@ -3,8 +3,8 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "lux-design-system": "file:../lux",
     "vue": "^2.5.16",
-    "vue-design-system": "pulibrary/lux",
     "vue-loader": "14.2.2",
     "vue-template-compiler": "^2.5.16",
     "vue-turbolinks": "^2.0.3"

@@ -8,8 +8,8 @@
 // layout file, like app/views/layouts/application.html.erb
 
 import Vue from 'vue/dist/vue.esm'
-import system from 'vue-design-system'
-import 'vue-design-system/dist/system/system.css'
+import system from 'lux-design-system'
+import 'lux-design-system/lib/system/system.css'
 import TurbolinksAdapter from 'vue-turbolinks';
 
 Vue.use(system)
